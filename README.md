@@ -33,5 +33,5 @@ This project is a Flask-based web application that predicts Boston housing price
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/ShambhaveeThakur/ML-Project-end-to-end.git
    cd boston-housing-predictor
